@@ -1,0 +1,51 @@
+<svg height="766" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="766" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 14:17:46 +0000 35589894 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 14:17:46 +0000     1082 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 14:17:46 +0000       21 bytes  Procfile</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 14:17:46 +0000     4566 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 14:17:46 +0000      203 bytes  config/README_scott.txt</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 14:17:46 +0000      408 bytes  config/config.dev.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 14:17:46 +0000      529 bytes  config/config.global.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 14:17:46 +0000      129 bytes  config/config.prod.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 14:17:46 +0000      128 bytes  config/index.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 14:17:46 +0000 14372930 bytes  media/Justice_Genesis_chewy_chocolate_cookies_gt\</tspan>
+<tspan x="10" y="186">ZunGHG0ls_mono.wav</tspan>
+<tspan x="10" y="202"> 10.  2017-04-21 14:17:46 +0000   132610 bytes  media/Lee_Smolin_Physics_Envy_and_Economic_Theor\</tspan>
+<tspan x="10" y="218">y-cWn86ESze6M_mono_1st_few_seconds_trim.wav</tspan>
+<tspan x="10" y="234"> 11.  2017-04-21 14:17:46 +0000 19916878 bytes  media/SHAKUHACHI_Masayuki_Koga_trim_mono-IMi00aV\</tspan>
+<tspan x="10" y="250">1tdA.wav</tspan>
+<tspan x="10" y="266"> 12.  2017-04-21 14:17:46 +0000   851890 bytes  media/binaural_clapping_stereo_2_ch.wav</tspan>
+<tspan x="10" y="282"> 13.  2017-04-21 14:17:46 +0000    65580 bytes  media/sine_wave_32768_128.wav</tspan>
+<tspan x="10" y="298"> 14.  2017-04-21 14:17:46 +0000     1303 bytes  package.json</tspan>
+<tspan x="10" y="314"> 15.  2017-04-21 14:17:46 +0000      551 bytes  src/app.js</tspan>
+<tspan x="10" y="330"> 16.  2017-04-21 14:17:46 +0000      556 bytes  src/app_loki.js</tspan>
+<tspan x="10" y="346"> 17.  2017-04-21 14:17:46 +0000    27801 bytes  src/client_entry.js</tspan>
+<tspan x="10" y="362"> 18.  2017-04-21 14:17:46 +0000     3788 bytes  src/common.css</tspan>
+<tspan x="10" y="378"> 19.  2017-04-21 14:17:46 +0000     1712 bytes  src/common_utils.js</tspan>
+<tspan x="10" y="394"> 20.  2017-04-21 14:17:46 +0000      320 bytes  src/good_laptop.log</tspan>
+<tspan x="10" y="410"> 21.  2017-04-21 14:17:46 +0000     5401 bytes  src/index.html</tspan>
+<tspan x="10" y="426"> 22.  2017-04-21 14:17:46 +0000     3169 bytes  src/local_app.js</tspan>
+<tspan x="10" y="442"> 23.  2017-04-21 14:17:46 +0000     3230 bytes  src/local_app_loki.js</tspan>
+<tspan x="10" y="458"> 24.  2017-04-21 14:17:46 +0000    15845 bytes  src/render_streaming_web_audio.js</tspan>
+<tspan x="10" y="474"> 25.  2017-04-21 14:17:46 +0000    14977 bytes  src/server_loki.js</tspan>
+<tspan x="10" y="490"> 26.  2017-04-21 14:17:46 +0000    15578 bytes  src/server_streaming_audio.js</tspan>
+<tspan x="10" y="506"> 27.  2017-04-21 14:17:46 +0000    14762 bytes  src/shared_utils.js</tspan>
+<tspan x="10" y="522"> 28.  2017-04-21 14:17:46 +0000    13255 bytes  src/ww_client_socket.js</tspan>
+<tspan x="10" y="538"> 29.  2017-04-21 14:17:46 +0000    13846 bytes  src/ww_transferable_obj.js</tspan>
+<tspan x="10" y="554"> 30.  2017-04-21 14:17:46 +0000      551 bytes  src_min/app.js</tspan>
+<tspan x="10" y="570"> 31.  2017-04-21 14:17:46 +0000    27371 bytes  src_min/client_entry.js</tspan>
+<tspan x="10" y="586"> 32.  2017-04-21 14:17:46 +0000     3788 bytes  src_min/common.css</tspan>
+<tspan x="10" y="602"> 33.  2017-04-21 14:17:46 +0000     1712 bytes  src_min/common_utils.js</tspan>
+<tspan x="10" y="618"> 34.  2017-04-21 14:17:46 +0000      748 bytes  src_min/index.html</tspan>
+<tspan x="10" y="634"> 35.  2017-04-21 14:17:46 +0000     2958 bytes  src_min/local_app.js</tspan>
+<tspan x="10" y="650"> 36.  2017-04-21 14:17:46 +0000    15678 bytes  src_min/server_streaming_audio.js</tspan>
+<tspan x="10" y="666"> 37.  2017-04-21 14:17:46 +0000    11836 bytes  src_min/ww_client_socket.js</tspan>
+<tspan x="10" y="682"> 38.  2017-04-21 14:17:46 +0000    14183 bytes  src_min/ww_transferable_obj.js</tspan>
+<tspan x="10" y="698"> 39.  2017-04-21 14:17:46 +0000    10574 bytes  test/load_test.js</tspan>
+<tspan x="10" y="714"> 40.  2017-04-21 14:17:46 +0000     9334 bytes  test/load_test_closer.js</tspan>
+<tspan x="10" y="730"> 41.  2017-04-21 14:17:46 +0000       25 bytes  test/wrap_load_test.sh</tspan>
+<tspan x="10" y="746"> 42.  2017-04-21 14:17:46 +0000     8088 bytes  websockets-streaming-audio.png</tspan>
+</text>
+</svg>
